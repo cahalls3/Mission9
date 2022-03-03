@@ -11,6 +11,11 @@
     <None Remove="Components\" />
     <None Remove="Infrastructure\" />
     <None Remove="Pages\" />
+    <None Remove="Views\Home\" />
+    <None Remove="Views\Shared\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\Categories\" />
+    <None Remove="Models\ViewModels\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -23,6 +28,11 @@
     <Folder Include="wwwroot\lib\" />
     <Folder Include="wwwroot\lib\css\" />
     <Folder Include="wwwroot\lib\js\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\Categories\" />
+    <Folder Include="Models\ViewModels\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />
