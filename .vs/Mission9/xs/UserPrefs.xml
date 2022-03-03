@@ -1,12 +1,23 @@
 ﻿<Properties StartupConfiguration="{D38C3FF6-F25D-40C1-8922-5F4629381D6F}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission9/Views/Shared/BookSummary.cshtml">
+    <Files>
+      <File FileName="Mission9/Views/Shared/BookSummary.cshtml" Line="6" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission9" expanded="True">
-            <Node name="Mission9" expanded="True" selected="True">
-              <Node name="Infrastructure" expanded="True" />
-              <Node name="Models" expanded="True" />
+            <Node name="Mission9" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="Categories" expanded="True" />
+                  </Node>
+                  <Node name="BookSummary.cshtml" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
