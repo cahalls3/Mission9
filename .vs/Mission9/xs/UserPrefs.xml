@@ -4,11 +4,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission9" expanded="True">
-            <Node name="Mission9" expanded="True">
-              <Node name="Components" expanded="True">
-                <Node name="CategoriesViewComponent.cs" selected="True" />
-              </Node>
-              <Node name="Controllers" expanded="True" />
+            <Node name="Mission9" expanded="True" selected="True">
               <Node name="Infrastructure" expanded="True" />
               <Node name="Models" expanded="True" />
             </Node>
