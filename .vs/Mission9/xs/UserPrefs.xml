@@ -1,20 +1,24 @@
 ﻿<Properties StartupConfiguration="{D38C3FF6-F25D-40C1-8922-5F4629381D6F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission9/Pages/Purchase.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission9/Models/SessionBasket.cs">
     <Files>
       <File FileName="Mission9/Models/ViewModels/SessionBasket.cs" Line="48" Column="1" />
-      <File FileName="Mission9/Pages/Purchase.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission9" expanded="True">
             <Node name="Mission9" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Purchase.cshtml" expanded="True" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="SessionBasket.cs" selected="True" />
               </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Purchase.cshtml" expanded="True" />
+                <Node name="PurchaseCompleted.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
+                <Node name="Purchase" expanded="True" />
                 <Node name="Shared" expanded="True">
                   <Node name="Components" expanded="True">
                     <Node name="Categories" expanded="True" />
