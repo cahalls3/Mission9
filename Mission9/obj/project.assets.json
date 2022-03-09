@@ -1206,7 +1206,7 @@
       "outputPath": "/Users/carsonhalls/Documents/GitHub/Mission9/Mission9/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/carsonhalls/.config/NuGet/NuGet.Config"
+        "/Users/carsonhalls/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

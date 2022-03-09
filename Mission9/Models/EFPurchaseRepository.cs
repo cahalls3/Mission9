@@ -17,7 +17,7 @@ namespace Mission9.Models
 
         public IQueryable<Purchase> Purchases => context.Purchases.Include(x => x.Lines).ThenInclude(x => x.Book);
 
-        public void SaveDonation(Purchase purchase)
+        public void SavePurchase(Purchase purchase)
         {
             context.AttachRange(purchase.Lines.Select(x => x.Book));
 

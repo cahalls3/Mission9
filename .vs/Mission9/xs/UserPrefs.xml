@@ -5,22 +5,12 @@
         <State name="__root__">
           <Node name="Mission9" expanded="True">
             <Node name="Mission9" expanded="True">
+              <Node name="Components" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Migrations" expanded="True" />
               <Node name="Models" expanded="True">
-                <Node name="SessionBasket.cs" selected="True" />
-              </Node>
-              <Node name="Pages" expanded="True">
-                <Node name="Purchase.cshtml" expanded="True" />
-                <Node name="PurchaseCompleted.cshtml" expanded="True" />
-              </Node>
-              <Node name="Properties" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Purchase" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="Components" expanded="True">
-                    <Node name="Categories" expanded="True" />
-                  </Node>
-                </Node>
+                <Node name="EFPurchaseRepository.cs" selected="True" />
               </Node>
             </Node>
           </Node>
