@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{D38C3FF6-F25D-40C1-8922-5F4629381D6F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission9/Models/BookstoreContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission9/Models/SessionBasket.cs">
     <Files>
-      <File FileName="Mission9/Models/ViewModels/SessionBasket.cs" Line="1" Column="1" />
-      <File FileName="Mission9/Models/BookstoreContext.cs" Line="1" Column="1" />
+      <File FileName="Mission9/Models/ViewModels/SessionBasket.cs" Line="31" Column="45" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +11,7 @@
               <Node name="Components" expanded="True" />
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True">
-                <Node name="BookstoreContext.cs" selected="True" />
+                <Node name="SessionBasket.cs" selected="True" />
               </Node>
               <Node name="Pages" expanded="True">
                 <Node name="Purchase.cshtml" expanded="True" />
