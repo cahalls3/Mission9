@@ -8,10 +8,8 @@
               <Node name="Components" expanded="True" />
               <Node name="Controllers" expanded="True" />
               <Node name="Infrastructure" expanded="True" />
-              <Node name="Migrations" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="EFPurchaseRepository.cs" selected="True" />
-              </Node>
+              <Node name="Migrations" selected="True" />
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
