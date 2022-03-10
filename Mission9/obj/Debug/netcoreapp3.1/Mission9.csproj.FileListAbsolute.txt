@@ -77,6 +77,7 @@
 /Users/carsonhalls/Documents/GitHub/Mission9/Mission9/obj/Debug/netcoreapp3.1/Mission9.dll
 /Users/carsonhalls/Documents/GitHub/Mission9/Mission9/obj/Debug/netcoreapp3.1/Mission9.pdb
 /Users/carsonhalls/Documents/GitHub/Mission9/Mission9/obj/Debug/netcoreapp3.1/Mission9.genruntimeconfig.cache
-/Users/carsonhalls/Documents/GitHub/Mission9/Mission9/bin/Debug/netcoreapp3.1/Mission9
 /Users/carsonhalls/Documents/GitHub/Mission9/Mission9/obj/Debug/netcoreapp3.1/Razor/Pages/PurchaseCompleted.cshtml.g.cs
 /Users/carsonhalls/Documents/GitHub/Mission9/Mission9/obj/Debug/netcoreapp3.1/Razor/Views/Purchase/Checkout.cshtml.g.cs
+/Users/carsonhalls/Documents/GitHub/Mission9/Mission9/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/BasketSummary/Default.cshtml.g.cs
+/Users/carsonhalls/Documents/GitHub/Mission9/Mission9/bin/Debug/netcoreapp3.1/Mission9
