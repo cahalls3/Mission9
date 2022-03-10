@@ -8,8 +8,17 @@
               <Node name="Components" expanded="True" />
               <Node name="Controllers" expanded="True" />
               <Node name="Infrastructure" expanded="True" />
-              <Node name="Migrations" selected="True" />
               <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="BasketSummary" expanded="True">
+                      <Node name="Default.cshtml" selected="True" />
+                    </Node>
+                    <Node name="Categories" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>

@@ -21,6 +21,7 @@
     <None Remove="Microsoft.EntityFrameworkCore.Tools" />
     <None Remove="Microsoft.EntityFrameworkCore.Sqlite" />
     <None Remove="Views\Purchase\" />
+    <None Remove="Views\Shared\Components\BasketSummary\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -39,6 +40,7 @@
     <Folder Include="Views\Shared\Components\Categories\" />
     <Folder Include="Models\ViewModels\" />
     <Folder Include="Views\Purchase\" />
+    <Folder Include="Views\Shared\Components\BasketSummary\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />
